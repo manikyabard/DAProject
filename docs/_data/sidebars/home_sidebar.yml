@@ -14,7 +14,7 @@ entries:
       url: core.html
     - output: web,pdf
       title: Title
-      url: One-Class-SVM.html
+      url: prophet.html
     output: web
     title: nbdev_template
   output: web
