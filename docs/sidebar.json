@@ -1,6 +1,7 @@
 {
   "nbdev_template": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module name here": "core.html",
+    "Title": "One-Class-SVM.html"
   }
 }
