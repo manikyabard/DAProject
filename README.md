@@ -2,6 +2,11 @@
 
 
 
+## Submission from Team PG11_PyBinod
+- <b>Manikya Bardhan</b> (PES2201800351)
+- <b>Joe Rishon Manoj</b> (PES2201800340)
+- <b>Rakshith R Acharya</b> (PES2201800165)
+
 ### Directory Structure
 
 ```bash
