@@ -1,7 +1,7 @@
 {
   "nbdev_template": {
     "Overview": "/",
-    "module name here": "core.html",
-    "Title": "prophet.html"
+    "Title": "One-Class-SVM.html",
+    "Anomaly Detection using Facebook Prophet": "prophet.html"
   }
 }

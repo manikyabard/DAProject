@@ -2,21 +2,27 @@
 
 
 
-## Install
+### Directory Structure
 
-`pip install your_project_name`
-
-## How to use
-
-Fill me in please! Don't forget code examples:
-
+```bash
+├── data
+│   └── data.csv (Data from NAB Numenta Anomaly Benchmark)
+│
+├── docs (truncated)
+├── nbs (Contains all main project files)
+│   ├── ARIMA.ipynb 
+│   ├── index.ipynb
+│   ├── Isolation-Forests.ipynb
+│   ├── One-Class-SVM.ipynb
+│   └── prophet.ipynb
+│
+├── README.md
+├── settings.ini
+├── setup.py
+└── .github/workflows
+    └── main.yml
 ```
-1+1
-```
 
+### To reproduce the results, go to any of the notebooks present in the ```nbs``` folder and run the cells
 
-
-
-    2
-
-
+### Our main solution consists of using Prophet. It has been extensively described in ```nbs/prophet.ipynb```

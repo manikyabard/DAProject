@@ -10,10 +10,10 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
-    - output: web,pdf
       title: Title
+      url: One-Class-SVM.html
+    - output: web,pdf
+      title: Anomaly Detection using Facebook Prophet
       url: prophet.html
     output: web
     title: nbdev_template
